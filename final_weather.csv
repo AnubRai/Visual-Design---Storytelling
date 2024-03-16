@@ -1,0 +1,366 @@
+date,temp_max,temp_min,temp,precipitation,wind_speed,visibility,snow,humidity,weather_conditions,weather_icon
+1/1/2023,12.2,10,11.1,0.365,20,15.4,0,64.9,"Rain, Partially cloudy",cloudy
+1/2/2023,13.4,8.4,11.3,0.44,12.1,15.5,0,62.3,"Rain, Partially cloudy",cloudy
+1/3/2023,13,7.9,10.6,9.585,12.5,8.7,0,87.9,"Rain, Overcast",rain
+1/4/2023,18.7,9.2,14.4,0.459,15.2,13.3,0,79.7,"Rain, Partially cloudy",cloudy
+1/5/2023,9.4,7.1,8.5,0.46,15.2,9.6,0,90.7,"Rain, Overcast",cloudy
+1/6/2023,8.9,4.5,6.8,6.76,19.1,12.4,0,78.5,"Rain, Overcast",rain
+1/7/2023,6.7,3,4.8,0,16.3,16,0,60.9,Partially cloudy,partly-cloudy-day
+1/8/2023,4.8,0.7,3,0,24.1,16,0,53,Clear,clear-day
+1/9/2023,6.7,3,4.4,0.129,18.6,15.3,0,61.5,"Rain, Partially cloudy",cloudy
+1/10/2023,5,3.5,4.3,0,13.4,15.8,0,54.7,Partially cloudy,partly-cloudy-day
+1/11/2023,4,1.7,3,0,18.1,16,0,54.7,Partially cloudy,partly-cloudy-day
+1/12/2023,12.2,2.7,7,4.855,21.5,13.6,0,81.6,"Rain, Overcast",rain
+1/13/2023,13.2,3.9,9.4,4.105,23.5,14.8,0,75.8,"Rain, Partially cloudy",rain
+1/14/2023,3.4,0,1.2,0,29.5,14.8,0,62.9,Overcast,cloudy
+1/15/2023,4.8,-1.2,1.2,0,35.3,16,0,50.9,Partially cloudy,partly-cloudy-day
+1/16/2023,8.7,-1.4,2.6,0,27.7,16,0,35.2,Partially cloudy,partly-cloudy-day
+1/17/2023,8.3,2.2,5.6,0,15,16,0,33.3,Partially cloudy,partly-cloudy-day
+1/18/2023,11,6.6,8.8,1.22,30.6,15.8,0,58.5,"Rain, Partially cloudy",slight rain
+1/19/2023,7.2,4.4,5.5,20.571,15,10.6,0,78.5,"Rain, Partially cloudy",rain
+1/20/2023,9.2,4.5,6.8,0.08,26.6,15.7,0,69.1,"Rain, Partially cloudy",cloudy
+1/21/2023,6,2.9,3.9,0,25.3,16,0,56,Overcast,cloudy
+1/22/2023,5.5,2.4,3.7,9.161,16.3,13.7,0,63.3,"Rain, Overcast",rain
+1/23/2023,3.9,2.2,3.2,14.19,37.1,10.8,0,81.8,"Rain, Overcast",rain
+1/24/2023,7.4,1.8,4.3,0,22.8,16,0,50.9,Partially cloudy,partly-cloudy-day
+1/25/2023,12.1,2.2,4.7,20.68,25.9,12.7,0,67.9,"Rain, Partially cloudy",rain
+1/26/2023,13,5,7.9,11.815,33.5,14.9,0,62.7,"Rain, Overcast",rain
+1/27/2023,5.3,2.4,3.9,0,21,16,0,52.4,Partially cloudy,partly-cloudy-day
+1/28/2023,11.1,2.9,6.8,0.699,20.5,16,0,44.3,"Rain, Partially cloudy",slight rain
+1/29/2023,11.1,6.1,8.3,0,16.2,16,0,54.2,Partially cloudy,partly-cloudy-day
+1/30/2023,12.8,5.1,8.2,0,14.7,16,0,65.4,Partially cloudy,partly-cloudy-day
+1/31/2023,8.4,1.1,3.9,0.318,20.2,15.9,0,63.1,"Rain, Overcast",cloudy
+2/1/2023,4.9,-1.7,1.2,0.038,21.6,15.6,0.9,53.2,"Snow, Rain, Partially cloudy",snow
+2/2/2023,4.9,-1.2,1.8,0.23,23.3,16,0,44.2,Rain,cloudy
+2/3/2023,2.1,-10.1,-3.3,0.469,25.2,16,0,45.5,"Snow, Partially cloudy",cloudy
+2/4/2023,-2.8,-14.2,-8.3,0,28.8,16,0,45.7,Clear,clear-day
+2/5/2023,9.3,-2.8,3.5,0,21.3,16,0,52.2,Clear,clear-day
+2/6/2023,11.6,2.8,6.7,0.46,20.2,16,0,57.9,"Rain, Partially cloudy",cloudy
+2/7/2023,5.6,0.5,3,0.019,25.1,16,0,61.1,Rain,cloudy
+2/8/2023,13.2,3.4,7.8,0.474,16.4,15.8,0,56.4,Rain,cloudy
+2/9/2023,11.7,3.9,7.9,0,14.8,16,0,69.7,Partially cloudy,partly-cloudy-day
+2/10/2023,15.5,7.9,12.7,0,21.7,15.9,0,52.9,Clear,clear-day
+2/11/2023,9.2,3.3,6,0,20,16,0,41.7,Clear,clear-day
+2/12/2023,7.9,2.3,5.1,0.019,23.7,16,0,54.1,"Rain, Partially cloudy",cloudy
+2/13/2023,13.9,5,9,0.235,25.4,16,0,34,"Rain, Partially cloudy",cloudy
+2/14/2023,12.8,5.6,8.9,0,15.1,16,0,39,Clear,clear-day
+2/15/2023,17.8,7.3,12.2,0.23,21.6,16,0,50,Rain,cloudy
+2/16/2023,16.9,10.9,13.5,1.271,13.4,15.9,0,63.4,"Rain, Partially cloudy",slight rain
+2/17/2023,16.1,1.1,10.6,4.097,21.1,14.3,0,74.6,"Rain, Partially cloudy",rain
+2/18/2023,7.1,-1.7,2.6,0.23,18.4,15.9,0,45.6,"Rain, Partially cloudy",cloudy
+2/19/2023,9.3,2.9,5.7,0,37.1,16,0,61.3,Clear,clear-day
+2/20/2023,16.2,7.3,10.4,0,22.4,15.8,0,65.7,Partially cloudy,partly-cloudy-day
+2/21/2023,10.6,3.3,6.1,2.028,23.6,15.8,0,74.6,"Rain, Partially cloudy",rain
+2/22/2023,6.2,3.3,4.7,2.58,21.9,15.8,0,62.1,"Rain, Partially cloudy",rain
+2/23/2023,6.2,3.8,4.7,0.036,23.9,14.8,0,88.3,"Rain, Overcast",cloudy
+2/24/2023,8.3,-1.7,5.2,0,14,13.7,0,56.8,Partially cloudy,partly-cloudy-day
+2/25/2023,0.6,-3.9,-1.6,0,12.8,15.9,0.6,60,Partially cloudy,partly-cloudy-day
+2/26/2023,11.1,-0.7,3.8,0.938,25.1,15.9,0,63.9,"Rain, Partially cloudy",slight rain
+2/27/2023,6.7,1.6,3.8,0.811,23.7,15.1,0,55.5,"Snow, Rain, Partially cloudy",slight rain
+2/28/2023,3.3,1,2.2,1.076,33,13,7.1,93.1,"Snow, Rain, Partially cloudy",snow
+3/1/2023,6.6,2.1,4.6,0.235,18.4,15.4,0,70.8,"Rain, Partially cloudy",cloudy
+3/2/2023,11.7,4.4,7.2,0,20,10.7,0,75.8,Partially cloudy,partly-cloudy-day
+3/3/2023,7.5,3.3,5.1,1.522,32.7,15.9,0,60.3,"Rain, Partially cloudy",slight rain
+3/4/2023,8.3,4.3,6,11.493,45.6,14,0,81.2,"Rain, Overcast",rain
+3/5/2023,12.1,3.8,7.4,0,16.5,16,0,53.2,Partially cloudy,partly-cloudy-day
+3/6/2023,12.1,4.4,8.2,0,18.1,16,0,41.1,Clear,clear-day
+3/7/2023,9.3,1.1,4.8,1.482,24,15.5,2,51.2,"Snow, Rain, Partially cloudy",snow
+3/8/2023,9.3,0,4.3,0,15.4,16,0,51.3,Clear,clear-day
+3/9/2023,12.1,1.3,5.9,0.469,20.1,16,0,53.2,Rain,cloudy
+3/10/2023,7.2,3.3,5.2,0.451,17.7,15.8,0,67.7,"Rain, Partially cloudy",cloudy
+3/11/2023,7.1,2.8,4.9,0.692,18.6,15.7,0,80.3,"Rain, Overcast",slight rain
+3/12/2023,8.3,1.7,4.8,0,14.4,16,0,60.5,Clear,clear-day
+3/13/2023,6.8,3.9,5.2,10.958,24.2,9,0,85.2,"Rain, Overcast",rain
+3/14/2023,3.9,1,2.1,8.825,31.4,10.1,1.5,78.3,"Snow, Rain, Overcast",snow
+3/15/2023,6.8,1.3,3.6,0,36,16,0,47.8,Partially cloudy,partly-cloudy-day
+3/16/2023,14.5,1.8,7.5,0,21.3,16,0,28.3,Clear,clear-day
+3/17/2023,14.8,8.4,11.6,0,21.7,16,0,39.2,Partially cloudy,partly-cloudy-day
+3/18/2023,13.9,6.2,9.5,0.033,30.8,16,0,44.3,"Rain, Partially cloudy",cloudy
+3/19/2023,6.2,-0.7,2.9,0,24.6,16,0,37.5,Partially cloudy,partly-cloudy-day
+3/20/2023,10,0,5,0,17.5,15.9,0,42.8,Clear,clear-day
+3/21/2023,16.7,3.5,9.9,0,22.2,16,0,35,Clear,clear-day
+3/22/2023,15.7,7.3,10.4,0,14.1,16,0,50,Partially cloudy,partly-cloudy-day
+3/23/2023,14,8.4,11.2,0.124,17.9,14.9,0,83.2,"Rain, Partially cloudy",cloudy
+3/24/2023,13.9,6.7,9.7,0,14.6,15.9,0,51.7,Partially cloudy,partly-cloudy-day
+3/25/2023,8.4,6.1,6.7,0.241,34.1,13.7,0,76,"Rain, Partially cloudy",cloudy
+3/26/2023,17.2,6.7,11.4,0,23.7,13.6,0,52.7,Partially cloudy,partly-cloudy-day
+3/27/2023,14.3,7.2,10.3,0.416,23.6,16,0,48.8,"Rain, Partially cloudy",cloudy
+3/28/2023,11.1,6.6,8.4,0,16.3,16,0,61.3,Partially cloudy,partly-cloudy-day
+3/29/2023,12.8,5.6,8.2,0,16.7,16,0,44,Clear,clear-day
+3/30/2023,9.2,0.6,5,0.026,16.7,16,0,40.5,Rain,cloudy
+3/31/2023,12.8,3.9,7.7,0,20.2,15.9,0,56.6,Partially cloudy,partly-cloudy-day
+4/1/2023,20.1,12.3,15.1,0.555,25.4,15.7,0,71.6,"Rain, Partially cloudy",slight rain
+4/2/2023,12.1,5.6,9.1,0.028,16.5,16,0,36.8,"Rain, Partially cloudy",cloudy
+4/3/2023,13.9,4.3,9.1,0,21.8,15.8,0,47.5,Clear,clear-day
+4/4/2023,20.7,8.8,14.8,0,12.6,15.8,0,69.8,Partially cloudy,partly-cloudy-day
+4/5/2023,12.9,8,10.5,0,29.3,9.3,0,91.8,Overcast,cloudy
+4/6/2023,24.4,7.8,14.4,0,13.9,9.2,0,74.8,Partially cloudy,partly-cloudy-day
+4/7/2023,16,7.9,12.2,0,18.6,16,0,31.7,Partially cloudy,partly-cloudy-day
+4/8/2023,11.1,3.5,7.5,0,22.3,16,0,36.7,Clear,clear-day
+4/9/2023,12.8,5.6,8.5,0,24,16,0,47.7,Clear,clear-day
+4/10/2023,17.9,5.7,11.3,0,16.7,15.9,0,49.7,Clear,clear-day
+4/11/2023,21.8,9,15.9,0,27.3,16,0,34.3,Clear,clear-day
+4/12/2023,28.6,17.3,22.6,0,18.7,16,0,27,Clear,clear-day
+4/13/2023,29,19.7,24.6,0,18.5,16,0,30.8,Clear,clear-day
+4/14/2023,31.9,17.1,25.4,0,24.1,16,0,30.7,Clear,clear-day
+4/15/2023,23.6,15.1,19.3,0.023,17.3,15.4,0,72.2,"Rain, Partially cloudy",cloudy
+4/16/2023,20.6,13.1,16.5,0,16.5,12.3,0,80.3,Partially cloudy,partly-cloudy-day
+4/17/2023,18.9,12,14.6,0.005,28.9,13,0,71.9,"Rain, Partially cloudy",cloudy
+4/18/2023,14.2,8.5,11.4,0,29.5,16,0,41.3,Partially cloudy,partly-cloudy-day
+4/19/2023,17.9,7.9,11.4,0,21.5,16,0,42.2,Partially cloudy,partly-cloudy-day
+4/20/2023,17.4,8.7,12.3,0,18,15.9,0,51.9,Clear,clear-day
+4/21/2023,20,10.7,14.8,0,20.1,15.8,0,62.6,Partially cloudy,partly-cloudy-day
+4/22/2023,19.8,11.1,14.6,0.605,22.3,15.2,0,80.3,"Rain, Partially cloudy",slight rain
+4/23/2023,19.4,12.1,14.9,35.494,23.7,11.9,0,71.7,"Rain, Partially cloudy",rain
+4/24/2023,16.6,7.8,12.1,0,14.5,16,0,48.8,Partially cloudy,partly-cloudy-day
+4/25/2023,14.9,8.8,12,0,12.9,16,0,48.7,Partially cloudy,partly-cloudy-day
+4/26/2023,14.3,9.9,12,0,14.6,16,0,58.6,Partially cloudy,partly-cloudy-day
+4/27/2023,13.8,10.7,11.9,0,12.9,16,0,72.7,Partially cloudy,partly-cloudy-day
+4/28/2023,12.9,9.3,11,0.283,26.9,15.7,0,71.9,"Rain, Partially cloudy",cloudy
+4/29/2023,11.7,8.9,10.2,39.031,27.4,5.5,0,94.6,"Rain, Overcast",rain
+4/30/2023,15.9,10,12.4,60.941,21.8,4.1,0,95.4,"Rain, Overcast",rain
+5/1/2023,16.1,10,13.5,0.376,27.8,14.9,0,60.6,"Rain, Partially cloudy",cloudy
+5/2/2023,13.8,8.8,11.2,0.312,29.3,16,0,63.8,"Rain, Partially cloudy",cloudy
+5/3/2023,14.3,8.8,11,0,16.3,15.9,0,60.8,Partially cloudy,partly-cloudy-day
+5/4/2023,12.8,9.3,10.7,0.061,26.6,16,0,75.9,"Rain, Overcast",cloudy
+5/5/2023,17.2,10.5,13,0.008,21.4,15.9,0,69,"Rain, Partially cloudy",cloudy
+5/6/2023,22.8,10.6,15.8,0,17.8,15.9,0,58.2,Partially cloudy,partly-cloudy-day
+5/7/2023,25,12.9,18.7,0.028,16.6,16,0,47.3,Rain,cloudy
+5/8/2023,26,15,20.2,0,16.2,16,0,49.9,Partially cloudy,partly-cloudy-day
+5/9/2023,19.4,13.3,16.5,0,21.4,16,0,39.2,Clear,clear-day
+5/10/2023,22.2,11.7,16.2,0,16.1,16,0,52.5,Clear,clear-day
+5/11/2023,26.2,13.4,20,0,16.5,16,0,40.5,Clear,clear-day
+5/12/2023,28.9,15.8,23.1,0,20.1,16,0,43,Clear,clear-day
+5/13/2023,26.2,20.1,23,0,11.3,16,0,44.5,Clear,clear-day
+5/14/2023,24.2,16.1,19.7,0,22.8,16,0,32.4,Clear,clear-day
+5/15/2023,22.9,13.3,18.1,0,23.4,16,0,35.6,Clear,clear-day
+5/16/2023,25.6,13.9,20.2,0,27.2,16,0,42.5,Clear,clear-day
+5/17/2023,20.7,12.8,16.8,0,20.3,16,0,39.5,Clear,clear-day
+5/18/2023,15.6,9.2,12.5,0,23.6,16,0,46.9,Clear,clear-day
+5/19/2023,19.4,12.2,15.5,0,25.9,15.8,0,63.8,Clear,clear-day
+5/20/2023,18.4,14.2,16.2,22.474,13.1,7.2,0,91,"Rain, Overcast",rain
+5/21/2023,21.6,13.4,18.2,0.44,18.6,15.3,0,60.9,"Rain, Partially cloudy",cloudy
+5/22/2023,23.3,15,18.3,0,18.1,15.9,0,59.8,Clear,clear-day
+5/23/2023,19.8,13.8,15.9,0,19.7,16,0,63.1,Partially cloudy,partly-cloudy-day
+5/24/2023,24.4,13.3,17.3,0.079,21.9,16,0,50.3,"Rain, Partially cloudy",cloudy
+5/25/2023,21,11.1,16,0,18.6,16,0,47.9,Clear,clear-day
+5/26/2023,23.7,13.7,18.2,0,21.9,16,0,41.4,Clear,clear-day
+5/27/2023,25,15.5,19.4,0,16.1,16,0,41.6,Clear,clear-day
+5/28/2023,24.4,15.1,19.5,0,13.1,16,0,44.4,Clear,clear-day
+5/29/2023,25,16.2,19.9,0,27,16,0,53.6,Clear,clear-day
+5/30/2023,20.7,13.4,16.8,0.938,23.4,15.6,0,59,Rain,slight rain
+5/31/2023,22.9,12.8,17.6,0,16.3,15.4,0,66.3,Clear,clear-day
+6/1/2023,27.9,16.1,20.9,0.23,12.9,15.6,0,64.4,Rain,cloudy
+6/2/2023,30.1,17.3,22.9,0.298,16.3,15.3,0,60,Rain,cloudy
+6/3/2023,21.1,14.3,18.8,0,27,15.8,0,68.7,Partially cloudy,partly-cloudy-day
+6/4/2023,21.1,11.6,16,0.23,26.9,15.9,0,58.2,"Rain, Partially cloudy",cloudy
+6/5/2023,24.3,14.3,19.2,0.23,20.1,15.8,0,50.3,"Rain, Partially cloudy",cloudy
+6/6/2023,27.1,17.1,20.7,0.019,12.7,11.5,0,43.1,Rain,cloudy
+6/7/2023,22.1,15,18.4,0,13.1,6.8,0,46.2,Clear,clear-day
+6/8/2023,22.1,14.3,18.3,0,14.6,10.7,0,51.5,Partially cloudy,partly-cloudy-day
+6/9/2023,22.1,15,18.4,0,16.5,15.8,0,57.4,Partially cloudy,partly-cloudy-day
+6/10/2023,26.1,15,20.2,0.23,11.2,15.7,0,55.4,"Rain, Partially cloudy",cloudy
+6/11/2023,26.7,18.8,22.1,1.19,12.4,15.6,0,62.7,"Rain, Partially cloudy",slight rain
+6/12/2023,23.9,19,21.3,2.75,23.7,14.1,0,77.3,"Rain, Partially cloudy",rain
+6/13/2023,25.7,18.3,21.8,0.938,17.9,15.2,0,60.6,"Rain, Partially cloudy",slight rain
+6/14/2023,24.9,18.4,20.3,1.024,30.5,15.4,0,65.7,"Rain, Partially cloudy",slight rain
+6/15/2023,26.1,16.7,21.3,3.044,22.8,16,0,57.9,"Rain, Partially cloudy",rain
+6/16/2023,26.7,18.3,20.5,9.102,17.8,15.4,0,65.6,"Rain, Partially cloudy",rain
+6/17/2023,26,17.2,20.9,0,13.3,15.7,0,60.2,Partially cloudy,partly-cloudy-day
+6/18/2023,27.1,17.8,22.4,0.699,16.6,15.9,0,51.5,"Rain, Partially cloudy",slight rain
+6/19/2023,25.7,19.3,21.8,0,21.5,15.9,0,64.5,Clear,clear-day
+6/20/2023,25,17.8,20.7,0,18,16,0,67.1,Partially cloudy,partly-cloudy-day
+6/21/2023,22.2,16.7,19.2,0,27.6,16,0,67,Partially cloudy,partly-cloudy-day
+6/22/2023,21.7,15.7,18.6,0.005,31.2,15.4,0,71.9,"Rain, Overcast",cloudy
+6/23/2023,21.2,18.4,19.6,0.295,14.7,15.2,0,87.9,"Rain, Overcast",cloudy
+6/24/2023,26.1,20,22.5,1.24,16.7,12.4,0,86.1,"Rain, Partially cloudy",slight rain
+6/25/2023,29.1,21,23.9,0.477,18.3,15.8,0,78.3,Rain,cloudy
+6/26/2023,26.1,21,22.7,0.516,20.1,14.6,0,84.4,"Rain, Partially cloudy",slight rain
+6/27/2023,27.1,19.4,22.1,0.398,14.5,14.7,0,83.8,"Rain, Partially cloudy",cloudy
+6/28/2023,27.8,20,23.4,0,14.5,15.1,0,71.1,Partially cloudy,partly-cloudy-day
+6/29/2023,28.3,19.3,23.5,0.46,12.2,13.6,0,61.8,"Rain, Partially cloudy",cloudy
+6/30/2023,28.8,20.7,24.4,0.69,18.3,8.6,0,64.8,Rain,slight rain
+7/1/2023,27.2,20.7,23.6,0.23,21.8,14.3,0,64.2,"Rain, Partially cloudy",cloudy
+7/2/2023,31,21.7,24.9,0.596,14.2,14.8,0,78.1,"Rain, Partially cloudy",slight rain
+7/3/2023,31.1,23.3,26.9,0.759,14.7,15.7,0,71.3,"Rain, Partially cloudy",slight rain
+7/4/2023,27.8,22.9,24.3,0.481,10.7,14.8,0,84.5,"Rain, Partially cloudy",cloudy
+7/5/2023,33.3,22.8,27.3,0,12.3,12.5,0,69.7,Clear,clear-day
+7/6/2023,31.2,23.9,27.1,0.46,17.5,16,0,70.8,Rain,cloudy
+7/7/2023,30,23.4,25.8,0,14,16,0,78.9,Partially cloudy,partly-cloudy-day
+7/8/2023,30.7,23.9,25.7,0,17.8,15.4,0,81.1,Partially cloudy,partly-cloudy-day
+7/9/2023,27.2,23.9,25.2,1.427,18.4,15.2,0,83.3,"Rain, Partially cloudy",slight rain
+7/10/2023,31,22.2,25.8,0.013,15,16,0,71.1,"Rain, Partially cloudy",cloudy
+7/11/2023,31.1,21.7,26.7,0.23,13,16,0,51.9,Rain,cloudy
+7/12/2023,32.8,23.5,28.1,0.23,14.5,15.9,0,53.8,Rain,cloudy
+7/13/2023,31.1,24.4,28.1,0,28.6,15.8,0,64.9,Clear,clear-day
+7/14/2023,29.3,23.3,25.9,0.547,23.5,14.7,0,74.6,"Rain, Partially cloudy",slight rain
+7/15/2023,31.6,22.2,26,0.34,16.6,15.4,0,82.3,"Rain, Partially cloudy",cloudy
+7/16/2023,26,24,24.9,12.326,16.1,14,0,94.6,"Rain, Partially cloudy",rain
+7/17/2023,31.6,23.5,27.2,0,16.7,15.5,0,74,Partially cloudy,partly-cloudy-day
+7/18/2023,28.8,22.9,25.6,0.498,27.6,15.1,0,77.6,Rain,cloudy
+7/19/2023,27.8,23.3,24.7,0.098,25.1,13.8,0,73.9,"Rain, Partially cloudy",cloudy
+7/20/2023,29.9,22.8,26.1,0.46,14.5,13.5,0,66.1,"Rain, Partially cloudy",cloudy
+7/21/2023,31,22.8,26,0.91,18.5,15.7,0,68.7,"Rain, Partially cloudy",slight rain
+7/22/2023,29.9,21.7,25.6,0.929,14.7,15.9,0,53.2,Rain,slight rain
+7/23/2023,32.6,22.8,26.6,0,14.2,16,0,54.4,Clear,clear-day
+7/24/2023,29.3,23.4,25.9,0,14.9,15.6,0,63.6,Clear,clear-day
+7/25/2023,30,21.6,24.3,1.193,20.1,15.2,0,74.7,"Rain, Partially cloudy",slight rain
+7/26/2023,30,20.6,25.2,0.23,14.9,15.8,0,68.8,Rain,cloudy
+7/27/2023,32.2,23.9,28.2,0.416,27.2,15.6,0,69.8,"Rain, Partially cloudy",cloudy
+7/28/2023,33.3,25,28.9,0.23,18,15.8,0,65.4,"Rain, Partially cloudy",cloudy
+7/29/2023,31.2,24.3,27.3,0.073,25.2,15.6,0,69.6,"Rain, Partially cloudy",cloudy
+7/30/2023,28.2,19.3,23.7,0,14.6,16,0,54,Partially cloudy,partly-cloudy-day
+7/31/2023,27.9,20.6,24.3,0.46,16.2,15.9,0,50.9,"Rain, Partially cloudy",cloudy
+8/1/2023,27.1,20.7,24,0,17.9,15.9,0,47.6,Partially cloudy,partly-cloudy-day
+8/2/2023,27.1,20.5,23.2,0.46,16,16,0,48.1,Rain,cloudy
+8/3/2023,26.2,20,22.7,0.23,26,15.8,0,60.3,"Rain, Partially cloudy",cloudy
+8/4/2023,24.4,21.7,22.8,0.23,19.9,15.9,0,73.8,"Rain, Overcast",cloudy
+8/5/2023,29.3,21.7,25.4,0,16.2,15.7,0,62.4,Partially cloudy,partly-cloudy-day
+8/6/2023,28.9,22.8,25.6,0,15,16,0,55.8,Clear,clear-day
+8/7/2023,27.1,20.1,23.8,1.77,23.7,14.2,0,83.1,"Rain, Overcast",slight rain
+8/8/2023,26.7,21.7,23.7,0.014,32.1,16,0,72.8,"Rain, Partially cloudy",cloudy
+8/9/2023,31.1,21.1,25.7,0.23,20,16,0,53.1,"Rain, Partially cloudy",cloudy
+8/10/2023,27.2,21.2,23.3,1.904,14.8,14.8,0,76.3,"Rain, Partially cloudy",slight rain
+8/11/2023,29.3,20,24.6,0,25.6,15.9,0,66.7,Clear,clear-day
+8/12/2023,29.4,22.7,25.4,0.507,18,15.6,0,66.2,"Rain, Partially cloudy",slight rain
+8/13/2023,31.6,21.1,26.3,1.107,18.1,15.9,0,67,"Rain, Partially cloudy",slight rain
+8/14/2023,31.6,22.9,26,0,20,16,0,63.1,Clear,clear-day
+8/15/2023,27.7,21.7,24.2,1.419,23.7,15.2,0,81.7,"Rain, Overcast",slight rain
+8/16/2023,28.2,21.1,24,1.09,19.7,14.9,0,79.6,"Rain, Partially cloudy",slight rain
+8/17/2023,25.7,22.8,23.8,0,19.6,15.8,0,81.5,Overcast,cloudy
+8/18/2023,28.2,20.6,24.4,1.543,25.4,15.3,0,67,"Rain, Partially cloudy",slight rain
+8/19/2023,27.1,17.9,22.5,0,21.7,16,0,53.2,Partially cloudy,partly-cloudy-day
+8/20/2023,30.6,19.4,24.9,0,14.1,16,0,53.7,Clear,clear-day
+8/21/2023,31.6,22.3,27,0,12.8,15.9,0,61.1,Partially cloudy,partly-cloudy-day
+8/22/2023,27.1,21,24.2,0,23.9,16,0,53.4,Partially cloudy,partly-cloudy-day
+8/23/2023,27.1,20.5,22.9,0,17.9,16,0,51.9,Clear,clear-day
+8/24/2023,23.3,19.4,21.6,0.36,21.5,15.5,0,75.5,"Rain, Overcast",cloudy
+8/25/2023,25.7,21.7,23.1,0.425,15.9,14.4,0,86.9,"Rain, Partially cloudy",cloudy
+8/26/2023,29.9,22.9,25.4,0.51,16.1,15.1,0,76,"Rain, Partially cloudy",slight rain
+8/27/2023,30.5,21.7,25.3,0,14.4,16,0,62.2,Clear,clear-day
+8/28/2023,24.3,21.7,22.6,0,14.6,15.8,0,77.5,Partially cloudy,partly-cloudy-day
+8/29/2023,25.6,20.6,23,0.232,20,15.9,0,78.8,"Rain, Partially cloudy",cloudy
+8/30/2023,29.8,21.8,24.6,0.354,11,15.4,0,72.3,"Rain, Partially cloudy",cloudy
+8/31/2023,26,19.3,22.5,0,25.4,16,0,52.8,Clear,clear-day
+9/1/2023,25.5,17.8,21.4,0,21.5,15.9,0,51.1,Clear,clear-day
+9/2/2023,26.6,17.8,21.7,0,16.1,15.9,0,63,Clear,clear-day
+9/3/2023,32.7,20.7,25.9,0,14.8,16,0,63.1,Clear,clear-day
+9/4/2023,32.1,23.8,27.3,0.23,10.6,15.9,0,65.3,Rain,cloudy
+9/5/2023,33.7,25,28.7,0,11,15.8,0,64.9,Clear,clear-day
+9/6/2023,33.4,25,29,0.699,9.3,15.5,0,64.2,Rain,slight rain
+9/7/2023,33.4,25.1,28.7,0,17.9,15.7,0,63.3,Clear,clear-day
+9/8/2023,32.1,23.8,25.9,0.334,14.9,14.8,0,73.9,"Rain, Partially cloudy",cloudy
+9/9/2023,29.9,23.7,25.5,0.028,10.8,15,0,81.6,"Rain, Partially cloudy",cloudy
+9/10/2023,26.5,21.1,23.5,1.544,12.7,14.4,0,84.2,"Rain, Partially cloudy",slight rain
+9/11/2023,28.2,21.7,24.2,2.181,17.9,14.5,0,86,"Rain, Partially cloudy",rain
+9/12/2023,29.8,21.1,24.3,0,13,15.9,0,75.4,Partially cloudy,partly-cloudy-day
+9/13/2023,27.7,22.2,24.2,0.204,16.3,15.9,0,77.2,"Rain, Partially cloudy",cloudy
+9/14/2023,27,19.8,23,0.46,17.7,15.9,0,56.8,"Rain, Partially cloudy",cloudy
+9/15/2023,22.7,16,18.9,0,20.2,15.9,0,60.5,Clear,clear-day
+9/16/2023,26.5,16.6,20.9,0,21.6,15.9,0,51.5,Clear,clear-day
+9/17/2023,25.6,16.1,20.7,0.484,21.2,15.2,0,61.3,"Rain, Partially cloudy",cloudy
+9/18/2023,20.6,17.8,19.3,1.464,14.4,12.2,0,91.1,"Rain, Partially cloudy",slight rain
+9/19/2023,25.2,15.6,20,0,20.6,16,0,63,Clear,clear-day
+9/20/2023,25.5,16.1,20.7,0,14.4,16,0,52.9,Clear,clear-day
+9/21/2023,23.7,16.6,20.2,0,19.8,15.8,0,57,Clear,clear-day
+9/22/2023,23.2,17.7,19.7,0,28.7,15.9,0,67,Partially cloudy,partly-cloudy-day
+9/23/2023,17.8,15.6,16.4,1.577,36.4,12.3,0,83.3,"Rain, Partially cloudy",slight rain
+9/24/2023,18.8,17.2,17.8,1.581,36.3,10.1,0,92.5,"Rain, Overcast",slight rain
+9/25/2023,17.9,15.6,16.5,0.882,40,8.2,0,92.3,"Rain, Overcast",slight rain
+9/26/2023,16.6,15,15.8,0.322,23.5,13.5,0,81.4,"Rain, Overcast",cloudy
+9/27/2023,19.2,12.7,16.3,0,27.6,15.7,0,63.3,Partially cloudy,partly-cloudy-day
+9/28/2023,18.8,14.3,16.1,0.451,25.5,15.8,0,78.6,"Rain, Overcast",cloudy
+9/29/2023,16.7,15.1,16.1,9.185,29.2,11.2,0,92.6,"Rain, Overcast",rain
+9/30/2023,19.3,15,17.1,0.067,20.2,15.1,0,82.4,"Rain, Overcast",cloudy
+10/1/2023,27,16.1,20.8,0,12.8,16,0,67.4,Clear,clear-day
+10/2/2023,26.6,18.8,21.6,0,12.8,16,0,66.7,Clear,clear-day
+10/3/2023,27.8,17.1,21.5,0,10.8,15.3,0,68.5,Clear,clear-day
+10/4/2023,28.2,18.9,22.3,0,14.3,15,0,72.4,Clear,clear-day
+10/5/2023,24.4,17.2,20.7,0,16.2,15.8,0,73.5,Clear,clear-day
+10/6/2023,22.1,19.1,20.6,0.204,14.5,10.7,0,91.4,"Rain, Overcast",cloudy
+10/7/2023,20.7,13.3,18.2,0.508,16.1,13.6,0,84.9,"Rain, Overcast",slight rain
+10/8/2023,16.6,11.1,13.8,0,28.5,16,0,63.9,Partially cloudy,partly-cloudy-day
+10/9/2023,17.1,10.6,13.7,0,22.3,16,0,57.6,Partially cloudy,partly-cloudy-day
+10/10/2023,18.3,12.8,15.1,0.028,19.8,15.6,0,67.4,"Rain, Partially cloudy",cloudy
+10/11/2023,22.7,14.3,17.5,0,19.4,15.7,0,62.9,Partially cloudy,partly-cloudy-day
+10/12/2023,23,13.8,17.8,0,12.5,16,0,65,Clear,clear-day
+10/13/2023,19.8,12.7,16,0,17.8,15.9,0,56.5,Clear,clear-day
+10/14/2023,14.9,11.1,12.9,1.139,20.1,13.3,0,76.3,"Rain, Partially cloudy",slight rain
+10/15/2023,17.7,11.1,13.7,0.03,14.6,16,0,66,"Rain, Partially cloudy",cloudy
+10/16/2023,19.8,9.3,14.1,0,14.7,16,0,66,Partially cloudy,partly-cloudy-day
+10/17/2023,18.2,11.7,14.8,0,11.2,16,0,65.5,Partially cloudy,partly-cloudy-day
+10/18/2023,17.7,13.8,15.6,0,10.9,15.6,0,69.5,Partially cloudy,partly-cloudy-day
+10/19/2023,19.3,11.7,15.2,0,16.2,16,0,70.8,Clear,clear-day
+10/20/2023,17.8,15.6,16.6,0.99,16.3,14.6,0,88.5,"Rain, Overcast",slight rain
+10/21/2023,19.2,14.4,16.1,0.614,26.8,15.1,0,77.7,"Rain, Partially cloudy",slight rain
+10/22/2023,16.5,10,13.2,0,25.3,16,0,57.2,Partially cloudy,partly-cloudy-day
+10/23/2023,18.6,9.3,13.1,0,14.4,16,0,56.5,Clear,clear-day
+10/24/2023,19.3,11,14.8,0,14.4,15.7,0,64.5,Clear,clear-day
+10/25/2023,23.7,11.7,17,0,16.3,16,0,60.8,Clear,clear-day
+10/26/2023,26.6,15,20,0,14.5,15.9,0,55.8,Clear,clear-day
+10/27/2023,24.3,16.2,19.4,0,17.8,16,0,64.7,Clear,clear-day
+10/28/2023,27.8,17.9,21.8,0,14.5,15.8,0,64.5,Partially cloudy,partly-cloudy-day
+10/29/2023,18.9,12.1,13.9,0.726,31,14.9,0,77.4,"Rain, Overcast",slight rain
+10/30/2023,16.1,11.1,13.7,0.672,15.8,13.6,0,85,"Rain, Overcast",slight rain
+10/31/2023,12.7,9.2,10.8,0,22.1,16,0,58.7,Partially cloudy,partly-cloudy-day
+11/1/2023,12.6,6.1,9.2,0.014,16.4,15.9,0,57.8,"Rain, Partially cloudy",cloudy
+11/2/2023,11.5,3.8,7.3,0,19.9,15.8,0,55.1,Clear,clear-day
+11/3/2023,14.9,6.1,10,0,18.2,16,0,58.4,Clear,clear-day
+11/4/2023,15.7,8.9,11.8,0,15.9,15.9,0,62.2,Clear,clear-day
+11/5/2023,19.2,11.1,13.9,0,10.8,15.9,0,58.4,Partially cloudy,partly-cloudy-day
+11/6/2023,13.3,8.8,11.4,0,20.1,15.8,0,64.3,Clear,clear-day
+11/7/2023,18.3,12.8,14.9,0.093,17.8,15.9,0,71.5,"Rain, Partially cloudy",cloudy
+11/8/2023,12.8,7.8,10.2,0,17.9,15.9,0,48,Clear,clear-day
+11/9/2023,15.5,7.8,12,0,16.3,15.9,0,66,Partially cloudy,partly-cloudy-day
+11/10/2023,12.1,7.9,10.9,0,20.1,16,0,58.9,Partially cloudy,partly-cloudy-day
+11/11/2023,14.8,7.2,9.8,0,16.1,15.9,0,59.2,Clear,clear-day
+11/12/2023,9.8,4.3,7,0,20.2,15.9,0,57.3,Clear,clear-day
+11/13/2023,11,4.2,7.5,0,17.8,16,0,57.5,Partially cloudy,partly-cloudy-day
+11/14/2023,14.2,6.2,9.7,0,13.3,16,0,55.7,Clear,clear-day
+11/15/2023,12.7,6.1,9.2,0,19.9,16,0,62,Clear,clear-day
+11/16/2023,19.9,7.9,12.9,0,17.8,16,0,57.7,Clear,clear-day
+11/17/2023,18.9,11.2,14.8,0,14.7,16,0,69.1,Clear,clear-day
+11/18/2023,15.7,6.6,12.3,0,10,16,0,59.9,Partially cloudy,partly-cloudy-day
+11/19/2023,13.8,5,9.1,0,20.1,16,0,51.7,Clear,clear-day
+11/20/2023,9.8,3.8,6.5,0,23.5,16,0,48,Clear,clear-day
+11/21/2023,8.8,3.7,6.5,0.627,28.7,15.3,0,71.1,"Rain, Partially cloudy",slight rain
+11/22/2023,14.2,9.3,11.7,2.945,26.2,12.2,0,81.1,"Rain, Partially cloudy",rain
+11/23/2023,13.7,7.8,10.2,0,14.8,16,0,58.6,Partially cloudy,partly-cloudy-day
+11/24/2023,12.6,2.1,8.3,0,14.6,16,0,49.1,Partially cloudy,partly-cloudy-day
+11/25/2023,6.5,1.1,3.4,0,11.1,15.9,0,52,Clear,clear-day
+11/26/2023,11.7,3.3,7.3,0.261,28.7,14.8,0,74,"Rain, Partially cloudy",cloudy
+11/27/2023,12.9,3.3,8.5,0.195,22.4,15.6,0,69.2,"Rain, Partially cloudy",cloudy
+11/28/2023,5.6,0.7,2.8,0,27.4,16,0,48.4,Partially cloudy,partly-cloudy-day
+11/29/2023,3.8,-1.7,1,0,26.2,16,0,53.6,Partially cloudy,partly-cloudy-day
+11/30/2023,11.6,1.7,6.3,0,20.1,16,0,51.1,Clear,clear-day
+12/1/2023,8.8,5.7,7.2,0.625,14.7,14.7,0,75.9,"Rain, Partially cloudy",slight rain
+12/2/2023,14.4,8.3,10.2,0,12.6,11.4,0,85.5,Partially cloudy,partly-cloudy-day
+12/3/2023,10.6,8.9,9.5,0.904,27.5,9.6,0,92.2,"Rain, Overcast",slight rain
+12/4/2023,11.2,6.7,8.7,0,32.7,16,0,70.5,Clear,clear-day
+12/5/2023,6.7,4.3,5.7,0,14.2,16,0,57.4,Partially cloudy,partly-cloudy-day
+12/6/2023,6.6,2.2,4.3,0,17.9,16,0,58.6,Partially cloudy,partly-cloudy-day
+12/7/2023,4.3,1.1,2.6,0,18.3,15.9,0,64.8,Partially cloudy,partly-cloudy-day
+12/8/2023,11.1,3.9,7,0,13,16,0,66.6,Partially cloudy,partly-cloudy-day
+12/9/2023,15,7.8,10.5,0,10.9,15.6,0,77.3,Clear,clear-day
+12/10/2023,15.1,10.6,13.5,1.438,18.1,14.2,0,85.9,"Rain, Overcast",slight rain
+12/11/2023,10,3.8,6.2,0.873,13.6,15.2,0,72.1,"Rain, Partially cloudy",slight rain
+12/12/2023,7.8,2.8,5,0,23.6,16,0,54.5,Partially cloudy,partly-cloudy-day
+12/13/2023,9.9,3.4,5.8,0,25.8,16,0,50.9,Clear,clear-day
+12/14/2023,6.6,1.6,3.8,0,20.3,16,0,48.8,Clear,clear-day
+12/15/2023,15.6,2.9,7.9,0,20.1,16,0,48.6,Clear,clear-day
+12/16/2023,13.3,7.3,9.8,0,23.7,15.9,0,57.8,Clear,clear-day
+12/17/2023,13.4,8.3,10.7,0.184,27.1,15.4,0,84.4,"Rain, Overcast",cloudy
+12/18/2023,15.7,6.2,11.7,3.124,31,11.1,0,81.2,"Rain, Partially cloudy",rain
+12/19/2023,7.7,1.1,4.4,0,21.8,15.9,0,58.1,Partially cloudy,partly-cloudy-day
+12/20/2023,8.7,0,3.5,0,16.6,16,0,54.1,Partially cloudy,partly-cloudy-day
+12/21/2023,7.7,1,3.9,0,20.3,15.7,0,54.7,Clear,clear-day
+12/22/2023,4.9,-2.2,1,0,20.2,16,0,50.2,Clear,clear-day
+12/23/2023,6.7,2.1,4.4,0,16.1,16,0,59.2,Partially cloudy,partly-cloudy-day
+12/24/2023,7.9,5.6,6.6,0.033,14,15.9,0,81.8,"Rain, Overcast",cloudy
+12/25/2023,8.9,6.2,7.5,0,14.5,12.6,0,87.3,Partially cloudy,partly-cloudy-day
+12/26/2023,8.5,6.7,7.4,0,14.3,7.6,0,88.8,Overcast,cloudy
+12/27/2023,9.3,6.7,7.8,0.298,25.3,12.5,0,89.8,"Rain, Overcast",cloudy
+12/28/2023,11.7,8.9,10.1,2.085,37.9,10.9,0,90.5,"Rain, Overcast",rain
+12/29/2023,12.2,7.9,9.5,0.04,21.3,12.7,0,81.8,"Rain, Partially cloudy",cloudy
+12/30/2023,7.9,3.9,6,0,32.4,16,0,66.5,Partially cloudy,partly-cloudy-day
+12/31/2023,6.2,4.3,5.5,0,18.2,16,0,55.8,Overcast,cloudy
